@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/awx000002",
-	"version": "1.0.0",
+	"version": "1.0.202004011854",
 	"description": "通用接口",
 	"scripts": {
 		"test": "tsc -w",
